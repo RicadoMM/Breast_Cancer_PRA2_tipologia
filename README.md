@@ -16,4 +16,4 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
 o desde el dataset adjunto en github:
 
-https://github.com/joanPri/breast-cancer-wisconsil/blob/main/cancer.csv
+https://github.com/RicadoMM/Breast_Cancer_PRA2_tipologia/blob/main/cancer.csv
